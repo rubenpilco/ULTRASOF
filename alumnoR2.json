@@ -5,8 +5,8 @@
   {"alumno": "Maria", "nota": 10, "ranking": 50},
   {"alumno": "Pedro", "nota": 7.9, "ranking": 15},
   {"alumno": "Mayra", "nota": 5, "ranking": 8},
-  {"alumno": "Sofía", "nota": 5, "ranking": 120},
-  {"alumno": "Carlos", "nota": 3, "ranking": 200},
-  {"alumno": "Jorge", "nota": 2, "ranking": 300},
-  {"alumno": "Marta", "nota": 15, "ranking": 350}
+  {"alumno": "Sofía", "nota": 5, "ranking": 10},
+  {"alumno": "Carlos", "nota": 3, "ranking": 20},
+  {"alumno": "Jorge", "nota": 2, "ranking": 30},
+  {"alumno": "Marta", "nota": 15, "ranking": 15}
 ]
