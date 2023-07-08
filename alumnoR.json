@@ -1,21 +1,21 @@
 [
   {"alumno": "Ruben", "nota": 9.09, "ranking": 150},
-  {"alumno": "Juan", "nota": 7, "ranking": 170},
+  {"alumno": "Juan", "nota": 20, "ranking": 170},
   {"alumno": "Daniel", "nota": 8, "ranking": 220},
   {"alumno": "Maria", "nota": 10, "ranking": 650},
-  {"alumno": "Pedro", "nota": 7.9, "ranking": 15},
+  {"alumno": "Pedro", "nota": 15.9, "ranking": 15},
   {"alumno": "Mayra", "nota": 5, "ranking": 108},
   {"alumno": "Roberto", "nota": 6, "ranking": 140},
-  {"alumno": "Luis", "nota": 7, "ranking": 190},
+  {"alumno": "Luis", "nota": 10, "ranking": 190},
   {"alumno": "Paulina", "nota": 9, "ranking": 180},
-  {"alumno": "Lorenzo", "nota": 8, "ranking": 150},
+  {"alumno": "Lorenzo", "nota": 20, "ranking": 150},
   {"alumno": "Kevin", "nota": 9.09, "ranking": 210},
-  {"alumno": "Juan", "nota": 9, "ranking": 210},
+  {"alumno": "Juan", "nota": 18, "ranking": 210},
   {"alumno": "María", "nota": 8.5, "ranking": 225},
   {"alumno": "Ana", "nota": 7.2, "ranking": 170},
   {"alumno": "Luis", "nota": 6.8, "ranking": 190},
   {"alumno": "Sofía", "nota": 9.5, "ranking": 110},
-  {"alumno": "Carlos", "nota": 7.7, "ranking": 220},
+  {"alumno": "Carlos", "nota": 22, "ranking": 220},
   {"alumno": "Jorge", "nota": 9.9, "ranking": 360},
-  {"alumno": "Marta", "nota": 9.5, "ranking": 230}
+  {"alumno": "Marta", "nota": 25, "ranking": 230}
 ]
