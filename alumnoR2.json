@@ -1,12 +1,12 @@
 [
-  {"alumno": "Ruben", "nota": 9, "ranking": 10},
+  {"alumno": "Ruben", "nota": 9, "ranking": 2},
   {"alumno": "Juan", "nota": 4, "ranking": 7},
-  {"alumno": "Daniel", "nota": 8, "ranking": 20},
-  {"alumno": "Maria", "nota": 10, "ranking": 40},
-  {"alumno": "Pedro", "nota": 7.9, "ranking": 15},
-  {"alumno": "Mayra", "nota": 5, "ranking": 12},
-  {"alumno": "Sofía", "nota": 5, "ranking": 10},
-  {"alumno": "Carlos", "nota": 3, "ranking": 20},
-  {"alumno": "Jorge", "nota": 2, "ranking": 30},
-  {"alumno": "Marta", "nota": 15, "ranking": 15}
+  {"alumno": "Daniel", "nota": 8, "ranking": 3},
+  {"alumno": "Maria", "nota": 10, "ranking": 1},
+  {"alumno": "Pedro", "nota": 7.9, "ranking": 4},
+  {"alumno": "Mayra", "nota": 5, "ranking": 4},
+  {"alumno": "Sofía", "nota": 6, "ranking": 5},
+  {"alumno": "Carlos", "nota": 3, "ranking": 7},
+  {"alumno": "Jorge", "nota": 2, "ranking": 8},
+  {"alumno": "Marta", "nota": 15, "ranking": 1}
 ]
