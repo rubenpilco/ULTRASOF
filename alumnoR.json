@@ -1,14 +1,14 @@
 [
   {"alumno": "Ruben", "nota":30, "ranking": 9},
-  {"alumno": "Juan", "nota": 20, "ranking": 3},
+  {"alumno": "Juan", "nota": 20, "ranking": 6},
   {"alumno": "Daniel", "nota": 15, "ranking": 4},
-  {"alumno": "Maria", "nota": 10, "ranking": 6},
+  {"alumno": "Maria", "nota": 10, "ranking": 5},
   {"alumno": "Pedro", "nota": 15.9, "ranking": 4},
-  {"alumno": "Mayra", "nota": 5, "ranking":7},
-  {"alumno": "Roberto", "nota": 25, "ranking": 3},
-  {"alumno": "Luis", "nota": 29, "ranking": 1},
-  {"alumno": "Paulina", "nota": 18, "ranking": 4},
-  {"alumno": "Lorenzo", "nota": 20, "ranking": 3},
-  {"alumno": "Kevin", "nota": 28.09, "ranking": 2},
-  {"alumno": "Juan", "nota": 30, "ranking": 10}
+  {"alumno": "Mayra", "nota": 5, "ranking":1},
+  {"alumno": "Roberto", "nota": 25, "ranking": 8},
+  {"alumno": "Luis", "nota": 29, "ranking": 8},
+  {"alumno": "Paulina", "nota": 18, "ranking": 7},
+  {"alumno": "Lorenzo", "nota": 20, "ranking": 6},
+  {"alumno": "Kevin", "nota": 28.09, "ranking": 8},
+  {"alumno": "Juan", "nota": 31, "ranking": 10}
 ]
