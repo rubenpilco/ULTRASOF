@@ -1,5 +1,5 @@
 [
-  {"alumno": "Ruben", "nota":30, "ranking": 1},
+  {"alumno": "Ruben", "nota":30, "ranking": 9},
   {"alumno": "Juan", "nota": 20, "ranking": 3},
   {"alumno": "Daniel", "nota": 15, "ranking": 4},
   {"alumno": "Maria", "nota": 10, "ranking": 6},
@@ -10,5 +10,5 @@
   {"alumno": "Paulina", "nota": 18, "ranking": 4},
   {"alumno": "Lorenzo", "nota": 20, "ranking": 3},
   {"alumno": "Kevin", "nota": 28.09, "ranking": 2},
-  {"alumno": "Juan", "nota": 30, "ranking": 1}
+  {"alumno": "Juan", "nota": 30, "ranking": 10}
 ]
