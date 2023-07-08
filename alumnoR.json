@@ -1,14 +1,14 @@
 [
-  {"alumno": "Ruben", "nota":30, "ranking": 297},
-  {"alumno": "Juan", "nota": 20, "ranking": 200},
-  {"alumno": "Daniel", "nota": 15, "ranking": 150},
-  {"alumno": "Maria", "nota": 10, "ranking": 100},
-  {"alumno": "Pedro", "nota": 15.9, "ranking": 115},
-  {"alumno": "Mayra", "nota": 5, "ranking": 55},
-  {"alumno": "Roberto", "nota": 25, "ranking": 140},
-  {"alumno": "Luis", "nota": 29, "ranking": 280},
-  {"alumno": "Paulina", "nota": 18, "ranking": 180},
-  {"alumno": "Lorenzo", "nota": 20, "ranking": 150},
-  {"alumno": "Kevin", "nota": 28.09, "ranking": 210},
-  {"alumno": "Juan", "nota": 30, "ranking": 700}
+  {"alumno": "Ruben", "nota":30, "ranking": 1},
+  {"alumno": "Juan", "nota": 20, "ranking": 3},
+  {"alumno": "Daniel", "nota": 15, "ranking": 4},
+  {"alumno": "Maria", "nota": 10, "ranking": 6},
+  {"alumno": "Pedro", "nota": 15.9, "ranking": 4},
+  {"alumno": "Mayra", "nota": 5, "ranking": 7},
+  {"alumno": "Roberto", "nota": 25, "ranking": 3},
+  {"alumno": "Luis", "nota": 29, "ranking": 1},
+  {"alumno": "Paulina", "nota": 18, "ranking": 4},
+  {"alumno": "Lorenzo", "nota": 20, "ranking": 3},
+  {"alumno": "Kevin", "nota": 28.09, "ranking": 2},
+  {"alumno": "Juan", "nota": 30, "ranking": 1}
 ]
