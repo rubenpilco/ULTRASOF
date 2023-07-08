@@ -10,5 +10,5 @@
   {"alumno": "Paulina", "nota": 18, "ranking": 180},
   {"alumno": "Lorenzo", "nota": 20, "ranking": 150},
   {"alumno": "Kevin", "nota": 28.09, "ranking": 210},
-  {"alumno": "Juan", "nota": 30, "ranking": 300}
+  {"alumno": "Juan", "nota": 30, "ranking": 700}
 ]
